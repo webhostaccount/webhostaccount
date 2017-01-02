@@ -15,9 +15,9 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       }
     },
     "versionFirst": "3.10.5",
@@ -49,7 +49,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1462750230268-f97ef3e635ee-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-1-1.gif",
             "bgColor": "#28324e",
             "bgColorRadio": false,
             "bgVideo": {
