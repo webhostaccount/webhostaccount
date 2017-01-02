@@ -49,7 +49,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/background-1-1.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1462750230268-f97ef3e635ee-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
