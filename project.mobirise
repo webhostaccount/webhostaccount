@@ -49,7 +49,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/background-1.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-1-1.gif",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
